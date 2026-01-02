@@ -25,4 +25,4 @@ Projeyi geliştirirken şu Java kavramlarına odaklanılmıştır:
 
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone [https://github.com/kullaniciadi/proje-adiniz.git](https://github.com/kullaniciadi/proje-adiniz.git)
+   git clone [https://github.com/muratcolakogluu/BankaHesapYonetimi.git](https://github.com/muratctolakogluu/BankaHesapYoentimi.git)
